@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [iToucSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="iTouch(failed)">
+    <classes>
+      <class name="SecondShubhamKolheTrials.tenantLogin">
+        <methods>
+          <include name="tenantLogin" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- SecondShubhamKolheTrials.tenantLogin -->
+    </classes>
+  </test> <!-- iTouch(failed) -->
+</suite> <!-- Failed suite [iToucSuite] -->
