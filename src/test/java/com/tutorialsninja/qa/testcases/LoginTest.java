@@ -17,9 +17,9 @@ import com.tutorialninja.qa.base.Base;
 import com.tutorialninja.qa.utils.Utilities;
 
 
-public class Login extends Base{
+public class LoginTest extends Base{
 	
-	public Login() {
+	public LoginTest() {
 		super();
 	}
 	

@@ -6,7 +6,9 @@
 </listeners>
   <test name="tutorialsninjaTest">
     <classes>
-   <class name="com.tutorialsninja.qa.testcases.Login"/>
+    <class name="com.tutorialsninja.qa.testcases.RegisterTest"/>
+   <class name="com.tutorialsninja.qa.testcases.LoginTest"/>
+   <class name="com.tutorialsninja.qa.testcases.SearchTest"/>
     </classes>
   </test> <!-- tutorialsninjaTest -->
 </suite> <!-- tutorialsninjaSuite -->

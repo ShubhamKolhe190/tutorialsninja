@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 import com.tutorialninja.qa.base.Base;
 import com.tutorialninja.qa.utils.Utilities;
 
-public class Register extends Base{
+public class RegisterTest extends Base{
 	/*String firstname = "Varsha";
 	String lastname = "Kolhe";
 	String emailaddress = "khiradevarsha27@gmail.com";

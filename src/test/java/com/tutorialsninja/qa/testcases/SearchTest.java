@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import com.tutorialninja.qa.base.*;
 
-public class Search extends Base{
+public class SearchTest extends Base{
 	public WebDriver driver;
 	
 	
